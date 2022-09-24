@@ -1,0 +1,48 @@
+
+  .board-row:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+  
+  .status {
+    position: absolute;
+    top:10px;
+    left: 40%;
+    font-size: 100px;
+  }
+  .reset{
+    position: absolute;
+    top:150px;
+    left :46%;
+    font-size: 80px;
+  }
+  .reset:hover{
+    cursor: pointer;
+  }
+  .player{
+    font-size: 60px;
+    position: absolute;
+    top:200px;
+    text-transform: uppercase;
+}
+.x{
+    left :20px;
+    color: white;
+}
+.o{
+right :20px;
+}
+.back{
+  position: absolute;
+  top:5px;
+  left:20px;
+  text-transform: capitalize;
+  font-size:40px;
+  color: darkgray;
+
+}
+.back:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}

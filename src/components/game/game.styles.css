@@ -1,0 +1,14 @@
+  .game {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+  }
+  
+  .game-board{
+    margin-top: 20%;
+    margin-left: 35%;
+  }
+  
