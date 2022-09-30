@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xo-game-final/static/css/main.d84303a4.css",
+    "main.js": "/xo-game-final/static/js/main.6336ebdf.js",
+    "static/js/787.7a1d6250.chunk.js": "/xo-game-final/static/js/787.7a1d6250.chunk.js",
+    "static/media/Tic_tac_toe.png": "/xo-game-final/static/media/Tic_tac_toe.e37cf1574c61384b88df.png",
+    "index.html": "/xo-game-final/index.html",
+    "main.d84303a4.css.map": "/xo-game-final/static/css/main.d84303a4.css.map",
+    "main.6336ebdf.js.map": "/xo-game-final/static/js/main.6336ebdf.js.map",
+    "787.7a1d6250.chunk.js.map": "/xo-game-final/static/js/787.7a1d6250.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84303a4.css",
+    "static/js/main.6336ebdf.js"
+  ]
+}
